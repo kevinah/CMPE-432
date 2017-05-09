@@ -10,3 +10,4 @@ to whether the review was positive(1), neutral(0), or negative(-1).
 
 Here is the sample output after sentiment analysis:
 
+![output](https://github.com/kevinah/CMPE-432/blob/master/output.png)
